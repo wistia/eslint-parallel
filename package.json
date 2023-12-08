@@ -1,8 +1,8 @@
 {
-  "name": "eslint",
+  "name": "@discordapp/eslint",
   "version": "8.52.0",
   "author": "Nicholas C. Zakas <nicholas+npm@nczconsulting.com>",
-  "description": "An AST-based pattern checker for JavaScript.",
+  "description": "(FORK) An AST-based pattern checker for JavaScript, now supporting parallelism.",
   "bin": {
     "eslint": "./bin/eslint.js"
   },
@@ -55,10 +55,10 @@
     "lib",
     "messages"
   ],
-  "repository": "eslint/eslint",
+  "repository": "discord/eslint",
   "funding": "https://opencollective.com/eslint",
   "homepage": "https://eslint.org",
-  "bugs": "https://github.com/eslint/eslint/issues/",
+  "bugs": "https://github.com/discord/eslint/issues/",
   "dependencies": {
     "@eslint-community/eslint-utils": "^4.2.0",
     "@eslint-community/regexpp": "^4.6.1",
