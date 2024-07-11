@@ -1,5 +1,5 @@
 {
-  "name": "@discordapp/eslint",
+  "name": "@wistia/eslint",
   "version": "8.52.0",
   "author": "Nicholas C. Zakas <nicholas+npm@nczconsulting.com>",
   "description": "(FORK) An AST-based pattern checker for JavaScript, now supporting parallelism.",
@@ -55,7 +55,7 @@
     "lib",
     "messages"
   ],
-  "repository": "discord/eslint",
+  "repository": "wistia/eslint",
   "funding": "https://opencollective.com/eslint",
   "homepage": "https://eslint.org",
   "bugs": "https://github.com/discord/eslint/issues/",
